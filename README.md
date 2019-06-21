@@ -1,3 +1,4 @@
+https://travis-ci.org/soumya74/FullStack_WebPortal_Project.svg?branch=master
 # higuestssg
 higuestssg is my personal web portal designed and implemented from scratch
 
