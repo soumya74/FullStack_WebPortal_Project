@@ -4,4 +4,6 @@ install:
   - go get "github.com/thedevsaddam/renderer"
   - go get "github.com/gorilla/mux"
 
+go_import_path: fullstack-web/handlers
+
 go: "1.11.4"
