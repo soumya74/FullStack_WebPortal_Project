@@ -1,7 +1,7 @@
 language: go
 
-go:
-- 1.x
-- "1.10"
-- 1.11.x
-- master
+install: 
+  - go get "github.com/thedevsaddam/renderer"
+  - go get "github.com/gorilla/mux
+
+go: "1.11.4"
