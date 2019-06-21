@@ -6,7 +6,7 @@ import (
   "fmt"
 
   "github.com/gorilla/mux"
-  "github.com/fullstack-web/handlers"
+  "github.com/soumya74/fullstack-web/handlers"
 )
 
 func main(){
